@@ -1,0 +1,47 @@
+#b{
+	background:#32ff7e;
+	
+}
+
+.h{
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;
+	
+}
+#d{
+	height:550px;
+	width:450px;
+	background:#c56cf0;
+	border:3px solid red;
+	border-radius:25px;
+	
+	
+}
+.img{
+	
+	height:200px;
+	width:200px;
+	
+	
+}
+#form{
+	
+	height:30px;
+	width:400px;
+	background:white;
+	padding:5px;
+	margin:5px;
+	
+	
+}
+#button{
+	height:30px;
+	width:400px;
+	background:#ff3838;
+	padding:5px;
+	margin:5px;
+	
+	
+}
+
