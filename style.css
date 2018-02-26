@@ -1,5 +1,5 @@
 #b{
-	background:#32ff7e;
+	//you can use any color for backgroud  here 
 	
 }
 
@@ -12,7 +12,7 @@
 #d{
 	height:550px;
 	width:450px;
-	background:#c56cf0;
+	background:white;
 	border:3px solid red;
 	border-radius:25px;
 	
